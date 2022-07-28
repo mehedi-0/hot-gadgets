@@ -1,0 +1,41 @@
+.head-sec img{
+    height: 70px;
+    background-color: white;
+}
+.product-1{
+    height: 938px;
+    width: 717px;
+}
+h1, h2{
+    margin-bottom: 30px;
+}
+.carousel-item p{
+    width: 500px;
+    margin-bottom: 50px;
+}
+.img-sz{
+    height: 205px;
+    width: 220px;
+    align-items: center;
+}
+.card, .card-footer{
+    border: none;
+    background-color: white;
+    box-shadow: 5px 5px 10 gray;
+}
+section{
+    margin-bottom: 100px;
+}
+.c{
+    height: 10px;
+    width: 100px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, #FFD019, #FF9C35);
+    align-items: center;
+    margin-bottom: 100px;
+}
+.n{
+    width: 200px;
+    height: 200px;
+}
+
